@@ -1,2 +1,2 @@
 # sacode-e-commerse-iv-tugas-day01
-Tugas SaCode E Commerse Billy Rumbiak
+Tugas Day 01 SaCode E Commerse Billy Rumbiak
